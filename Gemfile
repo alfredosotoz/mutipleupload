@@ -16,6 +16,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem "carrierwave", :github => "carrierwaveuploader/carrierwave"
 gem "fog-aws"
 gem "mini_magick"
+gem "rails_12factor"
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
